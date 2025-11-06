@@ -1,0 +1,305 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo {
+    height: 50px;
+    width: 160px;
+}
+
+.navbar-nav {
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+
+.navbar-toggler-icon {
+    font-size: 20px;
+
+}
+
+.navbar-toggler {
+    background-color: #ff7017;
+    outline: none !important;
+}
+
+.banner {
+    background-image: url("https://websitedemos.net/travel-agency-04/wp-content/uploads/sites/1521/2025/03/home-hero.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100%
+}
+
+.navbar-custom {
+    background-color: rgba(0, 0, 0, 0.4) !important;
+}
+
+.banner-line {
+    font-family: "Sans-Serif";
+    font-size: 20px;
+    color: #fff;
+    font-weight: 500;
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 5px;
+    border-radius: 5px;
+
+}
+
+.banner-heading {
+    font-family: "Caveat";
+    font-size: 50px;
+    color: #fff;
+    font-weight: bold;
+
+}
+
+.button {
+    background-color: #ff7017;
+    border-style: solid;
+    border-color: #fff;
+    font-size: 18px;
+    font-family: "Monospace";
+    color: #fff;
+    border-width: 0px;
+    padding: 3px;
+    border-radius: 10px;
+    font-weight: 500;
+}
+
+
+.packages-container {
+    background-color: #fff;
+}
+
+.packages-destination-title {
+    background-color: #ffdcc7;
+    color: #ff7017;
+    font-family: "Sans-Serif";
+    font-size: 20px;
+    font-weight: 500;
+    padding: 9px;
+    border-radius: 19px;
+}
+
+.packages-heading {
+    color: black;
+    font-family: "Sans-Serif";
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 15px;
+}
+
+.places-images {
+    border-radius: 10px;
+    width: 100%;
+
+}
+
+.place-name {
+    color: black;
+    font-family: "Sans-Serif";
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.places-card {
+    border-radius: 10px;
+}
+
+.price {
+    color: #a8a7a7;
+    font-family: "caveat";
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.popular-destinations-container {
+    background-color: #f7f4f2;
+}
+
+.join-us-description {
+    color: #919090;
+    font-family: "caveat";
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.places-bg-image {
+    background-image: url("https://cdn.pixabay.com/photo/2018/11/26/05/02/galtaji-3838766_1280.jpg");
+    width: 100%;
+    height: 75vh;
+    background-size: cover;
+    border-radius: 60px;
+
+}
+
+.image2 {
+    background-image: url("https://cdn.pixabay.com/photo/2020/04/15/19/33/zzz-5047943_1280.jpg");
+}
+
+.image3 {
+    background-image: url("https://cdn.pixabay.com/photo/2018/08/29/09/27/india-3639503_1280.jpg");
+    width: 100%;
+    height: 75vh;
+    background-size: cover;
+}
+
+.image4 {
+    background-image: url("https://cdn.pixabay.com/photo/2018/09/01/17/42/matrimandir-3647243_1280.jpg");
+}
+
+.image5 {
+    background-image: url("https://cdn.pixabay.com/photo/2022/02/24/16/36/boat-7032760_1280.jpg");
+}
+
+.destinations-place-name {
+    color: #fff;
+    font-family: "caveat";
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.aboutus-section {
+    background-color: #fcf5d9;
+}
+
+.aboutus-button {
+    background-color: #fff;
+    color: #ff7017;
+    padding: 7px;
+}
+
+.aboutus-heading {
+    color: black;
+    font-family: "Sans-Serif";
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 15px;
+}
+
+.aboutus-description {
+    color: #919090;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.aboutus-checkmark-color {
+    color: #ff7017;
+}
+
+.aboutus-checklist {
+    color: black;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.testimonials-section {
+    background-color: #fcfaf0;
+}
+
+.testimonials-title {
+    background-color: #ffdcc7;
+    color: #ff7017;
+    font-family: "Sans-Serif";
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 19px;
+}
+
+.testimonials-review {
+
+    color: black;
+    font-family: "Sans-Serif";
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 15px;
+
+
+}
+
+.testimonials-heading {
+    color: #1c1c1c;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.testmonials-description {
+    color: #1c1c1c;
+    font-family: "roboto";
+    font-size: 22px;
+}
+
+.testimonials-customer-name {
+    color: #1c1c1c;
+    font-family: "caveat";
+    font-size: 18px;
+    font-weight: bold;
+
+}
+.followus-section{
+    background-color: #fff;
+    width:100%;
+}
+
+.follow-us-heading {
+    color: #1c1c1c;
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.icon-container {
+    background-color: #faf7e8;
+    width: 70px;
+    height: 70px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 20px;
+    padding-bottom: 19px;
+    padding-right: 16px;
+    padding-left: 18px;
+    text-align: center;
+}
+
+.icon-color {
+    color: #ff8133;
+}
+
+.footer-section {
+    background-color: #050136;
+    width:100%;
+}
+
+
+.footer-description {
+    color: #fff;
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.footer-quicklinks {
+    font-size: 22px;
+    font-family: "Roboto";
+    color: #fff;
+    font-weight: bold;
+}
+
+.unorder-list {
+    list-style-type: none;
+    padding-left: 0;
+    font-size: 17px;
+    font-family: "Roboto";
+    color: #fff;
+}
+
+
+
+
+
+
+
