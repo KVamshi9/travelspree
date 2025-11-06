@@ -25,7 +25,7 @@
 .banner {
     background-image: url("https://websitedemos.net/travel-agency-04/wp-content/uploads/sites/1521/2025/03/home-hero.jpg");
     background-size: cover;
-    height: 100vh;
+    height: 70vh;
     width: 100%
 }
 
@@ -127,7 +127,7 @@
 .places-bg-image {
     background-image: url("https://cdn.pixabay.com/photo/2018/11/26/05/02/galtaji-3838766_1280.jpg");
     width: 100%;
-    height: 75vh;
+    height: 60vh;
     background-size: cover;
     border-radius: 60px;
 
